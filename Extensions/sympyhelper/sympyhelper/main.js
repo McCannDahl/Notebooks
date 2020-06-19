@@ -11,7 +11,7 @@ define([
         Jupyter.toolbar.add_buttons_group([
             Jupyter.keyboard_manager.actions.register ({
                 'help': 'Integral',
-                'icon' : 'icon-android',
+                'icon' : 'icon-limit',
                 'handler': sympy_helper_integral
             }, 'sympy-helper-integral', 'Sympy Helper Integral')
         ])
