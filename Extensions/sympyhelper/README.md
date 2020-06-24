@@ -23,8 +23,8 @@ https://mediatemple.net/blog/design-creative/creating-implementing-icon-font-tut
 ```
 jupyter contrib nbextensions install
 ```
-Look at the `Installing ....` not the `up to date ....`
-2) copy sympyhelper/ to the extensions folder
+Look at the `Installing ....` not the `up to date ....`  
+2) copy sympyhelper/ to the extensions folder  
 The end result should look like this:
 ```
 C:\Users\bob\anaconda3\envs\math with sympy\Lib\site-packages\jupyter_contrib_nbextensions\nbextensions\sympyhelper
