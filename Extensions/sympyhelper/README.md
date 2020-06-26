@@ -33,3 +33,6 @@ C:\Users\bob\anaconda3\envs\math with sympy\Lib\site-packages\jupyter_contrib_nb
 ----------README.md
 ```
 3) run `jupyter contrib nbextensions install` every time you change these files to add the extension to Jupyter
+
+![img](version1.PNG)
+
