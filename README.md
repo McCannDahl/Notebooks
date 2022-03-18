@@ -11,6 +11,7 @@ This is collection of awesome jupyter notebooks made by McCann. These notbooks a
 
 ![image](https://user-images.githubusercontent.com/19883817/158938210-311dc121-ab91-4572-b876-d3edda67387f.png)
 
+7. for widgets to work correctly you may need to install this extension `jupyter nbextension enable --py --sys-prefix widgetsnbextension`
 
 ## Install extensions on Anaconda for Jupyter notebooks
 `conda install -c conda-forge jupyter_contrib_nbextensions`
