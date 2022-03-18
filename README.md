@@ -15,3 +15,4 @@ This is collection of awesome jupyter notebooks made by McCann. These notbooks a
 
 ## Install extensions on Anaconda for Jupyter notebooks
 `conda install -c conda-forge jupyter_contrib_nbextensions`
+ 
