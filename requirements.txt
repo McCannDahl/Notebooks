@@ -3,4 +3,3 @@ ipywidgets
 matplotlib
 sympy
 numpy
-ipykernel
