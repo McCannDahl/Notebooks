@@ -2,3 +2,5 @@ voila
 ipywidgets
 matplotlib
 sympy
+numpy
+ipykernel
