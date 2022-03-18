@@ -2,4 +2,3 @@ voila
 ipywidgets
 matplotlib
 sympy
-numpy
