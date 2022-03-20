@@ -13,6 +13,10 @@ This is collection of awesome jupyter notebooks made by McCann. These notbooks a
 
 7. for widgets to work correctly you may need to install this extension `jupyter nbextension enable --py --sys-prefix widgetsnbextension`
 
+## Quickstart 2
+1. `jupyter notebook`
+2. `voila`
+
 ## Install extensions on Anaconda for Jupyter notebooks
 `conda install -c conda-forge jupyter_contrib_nbextensions`
  
