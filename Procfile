@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True
+web: voila --port=$PORT --Voila.ip=0.0.0.0 --no-browser --template=material --enable_nbextensions=True
