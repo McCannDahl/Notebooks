@@ -2,3 +2,4 @@
 .vscode/settings.json
 myvenv/**/*
 Disc Golf/*.txt
+Disc Golf/myvenv/**/*
