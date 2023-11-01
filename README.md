@@ -1,5 +1,5 @@
 # Notebooks
-This is collection of awesome jupyter notebooks made by McCann. These notbooks are hosted by Volia here https://voila-notebooks.herokuapp.com/
+This is collection of awesome jupyter notebooks made by McCann.
 
 ## Quickstart
 1. create a virtual environment `python3 -m venv myvenv`
